@@ -1,6 +1,7 @@
 ## Prerequistes:
 - vllm must be installed
 - hugging face hub must be logged into
+- `pip install nvidia-ml-py`
 ## Running:
 - Modify ./do_that_shit.sh to replace the `PYTHON=` variable with your Python environment
 - Find out which frequencies are supported on the gpu
